@@ -15,6 +15,6 @@ haxelib install thx.stream
 To use the `dev` version do:
 
 ```bash
-haxelib git thx.core https://github.com/fponticelli/thx.stream.git
+haxelib git thx.stream https://github.com/fponticelli/thx.stream.git
 ```
 
